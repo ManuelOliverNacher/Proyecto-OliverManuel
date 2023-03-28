@@ -1,0 +1,31 @@
+.card-detalle{
+    margin: 0 auto;
+   }
+.imgProd{
+    text-align: center;
+}
+h4.nombre-detalle{
+    color: #fff;
+    text-align: center;
+
+}
+.precioDetalle{
+    color: #fff;
+    text-align: center;
+}
+.your-custom-background-class {
+    background-color: #FFFFFF; /* Replace with your desired background color */
+    color: #ffffff; 
+  }
+  
+  .your-custom-button-class {
+    background-color: #ffffff; /* Replace with your desired button color */
+    color: #FFFFFF; /* Replace with your desired button text color */
+    border: none;
+    box-shadow: none;
+  }
+  
+  .your-custom-button-class:hover {
+    background-color: #747474; /* Replace with your desired button hover color */
+  }
+  

@@ -1,0 +1,25 @@
+.cartContent{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 50px;
+}
+
+.cartContent > img{
+    height: 120px;
+    width: 100px;
+    text-align: center;
+}
+.cartTotal{
+    text-align: center;
+}
+h5, h5 {
+    font-size: 1.25rem;
+    margin-top: 35px;
+}
+
+.btn-secondary {
+    color: #fff;
+
+
+    }
